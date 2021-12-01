@@ -1,6 +1,6 @@
 # Weather Application NodeJs
 
-##Modules utilisés :
+## Modules utilisés :
 express, node-fetch, dotenv, ejs
 
-###OpenWeatherMap API
+### OpenWeatherMap API
